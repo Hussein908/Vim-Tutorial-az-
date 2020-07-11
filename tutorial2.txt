@@ -1,0 +1,15 @@
+================================================
+=               VİM DƏRSLƏRİ - 2               =
+================================================
+
+ Vim-də kursoru hərəkət etdirmək üçün istifadə olunan əmrlər:
+1. h - sol;
+2. l - sağ;
+3. j - aşağı;
+4. k - yuxarı;
+ Vim-də mətni yadda saxlamaq üçün:
+1. :w - Mətni yadda saxlayır.
+2. :wq - Mətni yadda saxlayır və çıxış edir.
+ Vim-də çıxış etmək üçün:
+1. :q - Vim-dən çıxış edir.
+2. :q! - Vim-dəki dəyişiklikləri yaddaşda saxlamadan çıxış edir.
