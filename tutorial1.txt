@@ -2,10 +2,11 @@
 =          VİM DƏRSLƏRİ - 1          =
 ======================================
 
- Vimdə hər hansı yazı yazmaq üçün əvvəlcə:
+ Vimdə hər hansı yazı (mətn) yazmaq üçün əvvəlcə:
 1. Vim proqramı açılır.
 2. i düyməsi basılır və biz INSERT moduna keçmiş oluruq.
 3. Bundan sonra biz hər hansı məlumatı - yazını yaza bilərik.
 4. Yazdığımız yazını yadda saxlamaq üçün ilk öncə INSERT moddan çıxırıq;
    bunun üçün ESC düyməsi basılır.
 5. Sonra isə :w <fayl_adı> daxil edilib, ENTER düyməsini basırıq.
+6. Proqramdan çıxmaq üçün :q daxil edilir.
